@@ -20,7 +20,7 @@ if __name__ == "__main__":
     ano = time.strftime("%Y")
     fecha_actual = f"{dia}/{mes}/{ano}"
     tipoDocumento = ["ESTADOS","TRASLADOS","EDICTOS","FIJACIONES","SENTENCIAS"]
-    excelFile= ["CALI","BARRANQUILLA","BUCARAMANGA","CARTAGENA","IBAGUE","MEDELLIN","MONTERIA"
+    excelFile= ["CALI","BARRANQUILLA","BUCARAMANGA","CARTAGENA","MEDELLIN","MONTERIA"
                 ,"NEIVA","PASTO","POPAYAN","QUIBDO","RIOHACHA","SAN ANDRES","SANTA MARTA","SINCELEJO"
                 ,"TUNJA","TURBO","VALLEDUPAR","VILLAVICENCIO","CONSEJO","SECCIONES"]
     
